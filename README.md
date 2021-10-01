@@ -9,6 +9,7 @@
 - React functiоnal components and hooks.
 
 ### How run application?
-1. `npm install/yarn start`
-2. You should have **MetaMask** installed and connected to **Polygon Mainnet**
-3. Enjoy!  
+1. `npm install/yarn add` to add dependencies.
+2. `npm start/ yarn start` to run application.
+3. You should have **MetaMask** installed and connected to **Polygon Mainnet**
+4. Enjoy!  
