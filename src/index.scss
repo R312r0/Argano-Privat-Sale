@@ -1,0 +1,28 @@
+@font-face {
+  font-family: 'Popins';
+  src: local('Popins'), url(font/Poppins-Regular.ttf) format('truetype');
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Popins !important;
+  min-height: -webkit-fill-available;
+  box-sizing: border-box;
+  background: linear-gradient(128.93deg, #282828 -28.09%, #151515 101.36%);
+}
+
+#root {
+  height: 100%;
+}
+
+h1, h2, h3, h4, h5, h6, p {
+  margin: 0;
+}
+
+$breakpoints: (
+  "phone": 360px,
+  "tablet": 768px,
+  "desktop": 1366px,
+  "LGdesktop": 1920px
+)
